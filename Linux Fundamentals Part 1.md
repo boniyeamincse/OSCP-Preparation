@@ -1,3 +1,16 @@
+# OSCP Preparation :
+Box-Link : [Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
+# Your Markdown File with Embedded Video
+
+To view the video, click the link below:
+
+[![Video Title](https://img.youtube.com/vi/hdxN52bQyGM/maxresdefault.jpg)](https://youtu.be/hdxN52bQyGM?si=PCdUhP9wRcuX95wT)
+
+Make sure to replace "Video Title" with the actual title of the video if available. The image in the square brackets will be the placeholder thumbnail of the video.
+
+Feel free to add any additional text or content you need in your Markdown file.
+
+
 # Operating System (OS)
 
 An operating system (OS) is a fundamental software component that serves as an intermediary between computer hardware and users. It provides a platform for running applications and efficiently manages system resources, contributing to the seamless operation of a computer system. The OS plays a crucial role in facilitating communication and coordination between various hardware components, ensuring a harmonious interaction between software and hardware.
