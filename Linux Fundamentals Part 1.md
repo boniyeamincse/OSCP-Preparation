@@ -34,4 +34,33 @@ Operating systems are available in various distributions (distros), each tailore
 
 Linux, being an open-source operating system, is widely used across various domains. It powers servers, embedded systems, and personal computers. Many distributions, such as Ubuntu, Fedora, and Debian, have gained popularity for their stability, security, and extensive software repositories. Linux is also prevalent in the development of networking equipment, mobile devices, and cloud computing infrastructure.
 
+
+
+# Common Commands
+
+Here are some common commands used in the command-line interface of Unix-like operating systems:
+
+- **echo:** Display text or enable/disable command echoing.
+
+- **whoami:** Display the current user.
+
+- **pwd:** Print the current working directory.
+
+- **cat:** Concatenate and display the content of files.
+
+- **ls:** List directory contents.
+
+- **find:** Search for files and directories.
+
+- **grep:** Search for patterns within files.
+
+- **wc:** Count words, lines, and characters in a file.
+
+- **Operators:** Various operators such as &, &&, |, >, >> are used for tasks like background processing, logical operations, and file redirection.
+
+These commands are essential for navigating and interacting with the file system, as well as performing various operations on files and text.
+
+**Note:** Understanding and mastering these commands can significantly enhance your ability to work with Unix-like operating systems.
+
+
 In summary, the diverse landscape of operating systems and their distributions reflects the evolving needs and preferences of users in different computing environments. Each OS and distro brings unique features and capabilities to the table, catering to a wide range of users and applications.
