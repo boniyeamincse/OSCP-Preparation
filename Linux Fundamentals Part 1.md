@@ -1,15 +1,13 @@
 # OSCP Preparation :
 Box-Link : [Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
-# Your Markdown File with Embedded Video
+# Video 
 
 To view the video, click the link below:
 
-[![Video Title](https://img.youtube.com/vi/hdxN52bQyGM/maxresdefault.jpg)](https://youtu.be/hdxN52bQyGM?si=PCdUhP9wRcuX95wT)
+[![Linux Fundamentals Part 1 | OSCP Preparation](https://img.youtube.com/vi/hdxN52bQyGM/maxresdefault.jpg)](https://youtu.be/hdxN52bQyGM?si=PCdUhP9wRcuX95wT)
 
-Make sure to replace "Video Title" with the actual title of the video if available. The image in the square brackets will be the placeholder thumbnail of the video.
 
-Feel free to add any additional text or content you need in your Markdown file.
-
+# Linux Fundamentals Part 1 | OSCP Preparation Class Note :
 
 # Operating System (OS)
 
